@@ -1,2 +1,2 @@
 # identificacaoFacialAzure
-Identificação facial utilizando o Azure MAchine Learning.
+Identificação facial utilizando o Azure MAchine Learning em Python.
